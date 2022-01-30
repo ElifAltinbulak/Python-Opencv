@@ -1,4 +1,4 @@
-#opencv6
+#opencv5
 img=cv2.imread("img.jpg")
 print(img[50:50])
 #this situation is 50 on the x-axis, 50 on the y-axis, exactly the BGR values ​​of that pixel
